@@ -12,4 +12,4 @@ Více informací o tomto koníčku si můžete přečíst na [Wikipedii](https:/
 * Poslech hudby
 * Čtení knížek a vzdělávání
 
-![Můj druhý koníček](images/hudba.jpg)
+![Můj druhý koníček](images/hudba.webp)
