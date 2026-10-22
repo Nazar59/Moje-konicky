@@ -11,3 +11,5 @@ Více informací o tomto koníčku si můžete přečíst na [Wikipedii](https:/
 * Sport 
 * Poslech hudby
 * Čtení knížek a vzdělávání
+
+![Můj druhý koníček](images/hudba.jpg)
