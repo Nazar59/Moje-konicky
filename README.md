@@ -6,3 +6,8 @@ Vítám vás na svém profilu! Tento repozitář slouží jako přehled mých ne
 
 
 Více informací o tomto koníčku si můžete přečíst na [Wikipedii](https://cs.wikipedia.org).
+## Přehled mých aktivit
+
+* Sport 
+* Poslech hudby
+* Čtení knížek a vzdělávání
