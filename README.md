@@ -13,3 +13,5 @@ Více informací o tomto koníčku si můžete přečíst na [Wikipedii](https:/
 * Čtení knížek a vzdělávání
 
 ![Můj druhý koníček](images/hudba.webp)
+
+Moje oblíbené písničky a videa sleduji na [YouTube](https://www.youtube.com).
